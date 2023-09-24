@@ -1,0 +1,11 @@
+.gradient-background{
+    background: linear-gradient(300deg, #00bfff, white);
+}
+
+.header{
+    position: fixed;
+}
+
+.profile-picture{
+    object-fit: cover;
+}
