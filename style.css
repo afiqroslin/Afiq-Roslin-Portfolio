@@ -1,11 +1,40 @@
 .gradient-background{
-    background: linear-gradient(300deg, #00bfff, white);
+    background: linear-gradient(300deg, #011f4b, #03396c, #005b96, #6497b1, #b3cde0);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
 }
 
-.header{
-    position: fixed;
-}
+@keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
 
-.profile-picture{
-    object-fit: cover;
-}
+  .navbar-toggler{
+    border-color: white;
+  }
+
+  .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+  #about{
+    background-image: url(./asset/blue-bg.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #resume{
+    background-color: #white;
+    color: black;
+  }
+
+  #contacts{
+    background-color: aqua;
+  }
