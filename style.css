@@ -36,5 +36,9 @@
   }
 
   #contacts{
-    background-color: aqua;
+    color: white;
+  }
+
+  .custom-btn{
+    width: 150px;
   }
