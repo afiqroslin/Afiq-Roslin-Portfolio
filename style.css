@@ -26,8 +26,9 @@
 
   #about{
     background-image: url(./asset/blue-bg.avif);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    /* background-repeat: no-repeat; */
+    background-size:  1900px 500px;
+    background-position: center;
   }
 
   #resume{
