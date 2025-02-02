@@ -25,16 +25,27 @@
   }
 
   #about{
-    background-image: url(./asset/blue-bg.avif);
+    /* background-image: url(./asset/blue-bg.avif); */
     /* background-repeat: no-repeat; */
+    background-color: orange;
     background-size:  1900px 500px;
     background-position: center;
   }
 
-  #resume{
-    background-color: white;
+  #introduction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem; 
+    font-weight: 600; 
+    color: #333; 
+    padding: 15px; 
+    text-align: center justify;
+  }
+
+  body{
+    background-color: #b3cde0;
     color: black;
   }
+
 
   .custom-btn{
     width: 150px;
