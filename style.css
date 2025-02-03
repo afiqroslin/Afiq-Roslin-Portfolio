@@ -53,4 +53,10 @@
 
 #experience{
   display: none;
+  /* opacity: 0; Start hidden */
+  /* transition: opacity 1s ease-in-out; */
 }
+
+/* .fade-in {
+  opacity: 1 !important; /* Fully visible */
+/* } 
