@@ -1,5 +1,5 @@
 
-$("#introduction").slideDown(500);
+$("#introduction").slideDown(1000);
 
 // Fade In automatically
 $("#experience").fadeIn(2000);
