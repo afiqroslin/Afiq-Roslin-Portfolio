@@ -59,4 +59,20 @@
 
 /* .fade-in {
   opacity: 1 !important; /* Fully visible */
-/* } 
+/* }  */
+
+.exp-description-1{
+  display: none;
+  font-size: larger;
+}
+
+.exp-description-2{
+  display: none;
+  font-size: larger;
+}
+
+.exp-description-3{
+  display: none;
+  font-size: larger;
+}
+
