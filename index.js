@@ -20,15 +20,15 @@ $("#experience").fadeIn(2000);
 
 // show job description when click on job title
 $("#text-click-1").click(function(){
-    $(".exp-description-1").fadeToggle(500);
+    $(".exp-description-1").fadeToggle(1000);
     });
 
 $("#text-click-2").click(function(){
-    $(".exp-description-2").fadeToggle(500);
+    $(".exp-description-2").fadeToggle(1000);
     });
 
 $("#text-click-3").click(function(){
-    $(".exp-description-3").fadeToggle(500);
+    $(".exp-description-3").fadeToggle(1000);
     });
 
 

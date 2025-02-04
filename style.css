@@ -38,17 +38,17 @@ body{
   }
 
   #about{
-    /* background-image: url(./asset/blue-bg.avif); */
-    /* background-repeat: no-repeat; */
+    background-image: url(./asset/bg.jpg);
+    background-repeat: no-repeat;
     /* background-color: #03396c; */
     background-color: #222831;
-    background-size:  1000px 500px;
+    background-size:  1920px 1080px;
     background-position: center;
   }
 
-  /* #profile-picture{
-    background-color: #76ABAE;
-  } */
+  #profile-picture{
+    background-color: #31363F;
+  }
 
   #introduction{
     display: none;
