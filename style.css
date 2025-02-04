@@ -46,9 +46,9 @@ body{
     background-position: center;
   }
 
-  #profile-picture{
+  /* #profile-picture{
     background-color: #76ABAE;
-  }
+  } */
 
   #introduction{
     display: none;
