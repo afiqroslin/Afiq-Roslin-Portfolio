@@ -1,5 +1,6 @@
 .gradient-background{
     background: linear-gradient(300deg, #011f4b, #03396c, #005b96, brown,orange, #b3cde0);
+    /* background: linear-gradient(300deg, #222831, #31363F, #76ABAE, #EEEEEE); */
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
 }
@@ -27,13 +28,13 @@
   #about{
     /* background-image: url(./asset/blue-bg.avif); */
     /* background-repeat: no-repeat; */
-    background-color: #005b96;
+    background-color: #03396c;
     background-size:  1000px 500px;
     background-position: center;
   }
 
   #profile-picture{
-    background-color: #b3cde0;
+    background-color: #76ABAE;
   }
 
   #introduction{
