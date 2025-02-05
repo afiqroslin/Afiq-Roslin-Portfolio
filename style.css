@@ -1,8 +1,6 @@
 @font-face {
   font-family: 'Minecraft';
   src: url('font/Minecraft.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
 body{
@@ -12,7 +10,7 @@ body{
 
 .gradient-background{
     /* background: linear-gradient(300deg, #011f4b, #03396c, #005b96, brown,orange, #b3cde0); */
-    background: linear-gradient(300deg, #222831, #31363F, #c5bdb6, #EEEEEE);
+    background: linear-gradient(300deg, #222831, #31363F, #31363F  ,#25282e, black);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
 }
