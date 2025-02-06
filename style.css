@@ -36,7 +36,7 @@ body{
   }
 
   #about{
-    background-image: url(./asset/bg.jpg);
+    /* background-image: url(./asset/bg.jpg); */
     background-repeat: no-repeat;
     /* background-color: #03396c; */
     background-color: #222831;
@@ -61,7 +61,7 @@ body{
   body{
     /* background-color: #b3cde0;
     color: black; */
-    background-color: #31363F;
+    background-color: #545d6d;
     color: white;
   }
 
