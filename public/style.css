@@ -6,12 +6,12 @@
   body{
     font-family: 'roboto', Helvetica, sans-serif;
     letter-spacing: 1.5px;
-    background-color:  rgb(31, 29, 29);
+    background-color:  rgb(4, 0, 39);
     color: white;
   }
   
   .gradient-background{
-      background: linear-gradient(300deg, #222831, #31363F,#25282e, black);
+      background: linear-gradient(300deg,#25282e, rgb(5, 0, 54));
       background-size: 180% 180%;
       animation: gradient-animation 18s ease infinite;
   }
@@ -35,16 +35,20 @@
     .navbar-toggler-icon{
       background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
     }
+
+    #profile-picture{
+      background-color: white;
+    }
   
 
     #stack{
       width: 100%;
       max-width: 700px;
-      background-color: rgb(31, 29, 29);
+      background-color: rgb(4, 0, 39);
     }
 
     #about{
-      background-color:  rgb(31, 29, 29);
+      background-color:  rgb(4, 0, 39);
     }
   
     #introduction{
